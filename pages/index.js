@@ -16,50 +16,85 @@ export default function Home() {
         </p>
 
         <p>
-          Como funciona?
+          <b>Como funciona?</b>
+        </p>
 
+        <p>
           O potluck é basicamente a união de 2 ideias:
+        </p>
 
-          1) A criação de um pote comunitário de ofertas.
-
+        <p>
+          <b>1)</b> A criação de um pote comunitário de ofertas.
+        </p>
+       
+        <p>
           Todos nós temos recursos disponíveis e potenciais inutilizados que podem apoiar outras pessoas da rede. A ideia é tornar esses recursos e potenciais visíveis pra que a gente possa se apoiar de forma mais efetiva.
-    
-          2) A implementação de um algoritmo de "maximizar trocas".
-    
+        </p>
+
+        <p>
+          <b>2)</b> A implementação de um algoritmo de "maximizar trocas".
+        </p>
+        <p>
           A ideia essencial por trás desse algoritmo é que toda troca, se for realizada, vai ser uma troca ganha-ganha. Você vai receber algo que você quer mais do que o que você tem a ofertar, e quem vai receber aquilo que você tem a ofertar também.
-    
+        </p>
+        <p>
           Por quê?
-    
-          A cada oferta que você faz, você determina pelo que você está disposte a trocar aquilo.
-
+        </p>
+        <p>
+          A cada oferta que você faz, você determina pelo que você está disposte(o/a) a trocar aquilo.
+        </p>
+        <p>
           Você também pode optar por simplesmente doar algo. Mas se optar por trocar, o fato de poder escolher pelo quê você está disposte a trocar, significa que você só vai fazer uma troca se for algo benéfico pra você.
-
+        </p>
+        <p>    
           Ou seja, não é porque você está ofertando algo que necessariamente uma troca vai acontecer e você vai ter que entregar aquilo. Depende do que as outras pessoas também estão dispostas a trocar!
-          
+        </p>       
+
+        <p>
           Pra exemplificar:
-
+        </p>
+        <p>
           Imagina um piquenique onde cada um leva umas comidinhas pra serem compartilhadas por geral e cada um leva também algo pra ser trocado entre a roda. Você lembra de um jogo de tabuleiro que você tem guardado e não joga há um bom tempo, então você está disposte a trocar ele por alguma outra coisa que outras pessoas trouxerem.
-
+        </p>
+        <p>
           Vocês sentam, comem e compartilham da comida, e apresentam seus itens de troca. Você gostou da proposta de 4 aulas de zouk que alguém propôs, mas a pessoa que ofereceu não tem interesse no seu jogo. Ainda assim, uma outra pessoa na roda levou um patinete que era algo que a professora de dança gostaria de receber. E o dono do patinete tem interesse no seu jogo.
+        </p>
+        <p>
+          Boom! Match! ✨ 3 trocas realizadas.
+        </p>
 
-          Boom! Match! 3 trocas realizadas.
-
+        <p>
           O potluck possibilita isso em grupos cada vez maiores!
-  
-          Ok, entendi! Mas o que eu posso oferecer?
+        </p>
 
+        <p>
+          <b>Ok, entendi! Mas o que eu posso oferecer?</b>
+        </p>
+        <p>
           Qualquer coisa! Desde um convite pra algum evento, um livro que você quer passar pra frente, ou um sofá pra alguém dormir. As possibilidades são infinitas!
-    
+        </p>
+
+        <p>
           Seguem aqui algumas sugestões que podem te dar ainda mais ideias:
+        </p>
+        <p>
           - Dá uma olhada no que já está sendo ofertado pela rede. É só ir em <a href='https://main--cerulean-dolphin-be33db.netlify.app/offerings'>"Offerings"</a> lá em cima.
+        </p>
+        <p>
           - Você já conhece os <a href='https://digitalgarden-c4ss1uslab.vercel.app/img/optimized/9rHPj9SM3p-656.webp'>8 tipos de capital</a>? É um modelo que vem da permacultura e pode te ajudar a refletir sobre: Que tipo de valor você pode gerar? Quais recursos você tem disponíveis que não estão sendo compartilhados?
+        </p>
+        <p>    
           - Se liga nesse modelo chamado <a href='https://digitalgarden-c4ss1uslab.vercel.app/img/optimized/W9f0u5OwvY-700.webp'>fourgames</a>. É um modelo baseado na teoria integral, que simplifica a vida em 4 grandes "jogos". Pode te ajudar a refletir sobre: Em quais áreas da vida das pessoas você pode gerar valor/tem algo a oferecer? Em quais áreas da sua vida você mais está precisando de ajuda?
+        </p>
+        <p>
           - Sentar com a reflexão simples e profunda de: O que mais é possível quando decidimos experimentar/jogar a vida em rede?
-    
+        </p>
         </p>
 
         <h2>About the Project</h2>
-    
+
+    <p>
+        </p>
         <h3>Innovation</h3>
         <p>
           To create the wantlists instead of using a grid like the OLWLG and
