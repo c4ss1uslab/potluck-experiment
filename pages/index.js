@@ -35,19 +35,19 @@ export default function Home() {
           <b>2)</b> A implementação de um algoritmo de "maximizar trocas".
         </p>
         <p>
-          A ideia essencial por trás desse algoritmo é que toda troca, se for realizada, vai ser uma troca ganha-ganha. Você vai receber algo que você quer mais do que o que você tem a ofertar, e quem vai receber aquilo que você tem a ofertar também.
+          A ideia essencial por trás desse algoritmo é que toda troca, se for realizada, vai ser uma troca ganha-ganha. Você vai receber algo que você quer mais do que o que você tem a ofertar, e a outra pessoa também.
         </p>
         <p>
           Por quê?
         </p>
         <p>
-          A cada oferta que você faz, você determina pelo que você está disposte(o/a) a trocar aquilo.
+          Porque estamos trocando entre o gupo. A cada oferta que você faz, você determina pelo que você está disposte(o/a) a trocar aquilo.
         </p>
         <p>
-          Você também pode optar por simplesmente doar algo. Mas se optar por trocar, o fato de poder escolher pelo quê você está disposte a trocar, significa que você só vai fazer uma troca se for algo benéfico pra você.
+          Você também pode optar por simplesmente doar algo. Mas se optar por trocar, o fato de poder escolher pelo quê você está disposte a trocar, significa que você só vai fazer uma troca se for algo que você realmente quer.
         </p>
         <p>    
-          Ou seja, não é porque você está ofertando algo que necessariamente uma troca vai acontecer e você vai ter que entregar aquilo. Depende do que as outras pessoas também estão dispostas a trocar!
+          Ou seja, não é porque você está ofertando algo que necessariamente uma troca vai acontecer. Depende do que as outras pessoas também estão dispostas a trocar!
         </p>       
 
         <p>
@@ -79,6 +79,9 @@ export default function Home() {
         </p>
         <p>
           - Dá uma olhada no que já está sendo ofertado pela rede. É só ir em <a href='https://main--cerulean-dolphin-be33db.netlify.app/offerings'>"Offerings"</a> lá em cima.
+        </p>
+        <p>
+          - Pensa: O que há algum tempo atrás você gostaria de ter recebido, e que você tem hoje?
         </p>
         <p>
           - Você já conhece os <a href='https://digitalgarden-c4ss1uslab.vercel.app/img/optimized/9rHPj9SM3p-656.webp'>8 tipos de capital</a>? É um modelo que vem da permacultura e pode te ajudar a refletir sobre: Que tipo de valor você pode gerar? Quais recursos você tem disponíveis que não estão sendo compartilhados?
