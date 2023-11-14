@@ -89,7 +89,6 @@ export default function Home() {
         <p>
           - Sentar com a reflexão simples e profunda de: O que mais é possível quando decidimos experimentar/jogar a vida em rede?
         </p>
-        </p>
 
         <h2>About the Project</h2>
 
