@@ -84,7 +84,7 @@ export default function Home() {
           - Você já conhece os <a href='https://digitalgarden-c4ss1uslab.vercel.app/img/optimized/9rHPj9SM3p-656.webp'>8 tipos de capital</a>? É um modelo que vem da permacultura e pode te ajudar a refletir sobre: Que tipo de valor você pode gerar? Quais recursos você tem disponíveis que não estão sendo compartilhados?
         </p>
         <p>    
-          - Se liga nesse modelo chamado <a href='https://digitalgarden-c4ss1uslab.vercel.app/img/optimized/W9f0u5OwvY-700.webp'>fourgames</a>. É um modelo baseado na teoria integral, que simplifica a vida em 4 grandes "jogos". Pode te ajudar a refletir sobre: Em quais áreas da vida das pessoas você pode gerar valor/tem algo a oferecer? Em quais áreas da sua vida você mais está precisando de ajuda?
+          - Se liga nesse modelo chamado <a href='https://digitalgarden-c4ss1uslab.vercel.app/img/optimized/W9f0u5OwvY-700.webp'>FourGames</a>. É um modelo baseado na teoria integral, que simplifica a vida em 4 grandes "jogos". Pode te ajudar a refletir sobre: Em quais áreas da vida das pessoas você pode gerar valor/tem algo a oferecer? Em quais áreas da sua vida você mais está precisando de ajuda?
         </p>
         <p>
           - Sentar com a reflexão simples e profunda de: O que mais é possível quando decidimos experimentar/jogar a vida em rede?
